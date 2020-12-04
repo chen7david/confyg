@@ -1,0 +1,23 @@
+{
+  "name": "confyg",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen7david/confyg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chen7david/confyg/issues"
+  },
+  "homepage": "https://github.com/chen7david/confyg#readme",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  }
+}
