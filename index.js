@@ -4,7 +4,6 @@ const dirpath = p.resolve(__dirname, './../../', 'config')
 function getConfig(path){
     const yaml = require('js-yaml')
     const fs   = require('fs')
-    console.log({path})
     const files = fs.readdirSync(path)
     const config = {}
     files.forEach(file => {
