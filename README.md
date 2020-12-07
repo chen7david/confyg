@@ -11,7 +11,7 @@ first:
     name: 'value'
 ```
 
-<code>my-project/config/two.yaml</code>
+<code>my-project/config/two.yml</code>
 ```yaml
 second:
     name: 'value'
